@@ -107,3 +107,10 @@ p {
 .col-sm-6 {
   margin-bottom: 46px;
 }
+
+@media (max-width: 900px) {
+  body {
+    margin: 60px auto;
+    max-width: 500px;
+  }
+}
